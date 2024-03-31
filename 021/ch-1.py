@@ -1,5 +1,5 @@
 # Solution of Task 1 of The Weekly Challenge 21
-# https://theweeklychallenge.org/blog/perl-weekly-challenge-02
+# https://theweeklychallenge.org/blog/perl-weekly-challenge-021
 
 # Test run:
 # $ python3 ch-1.py 20
